@@ -11,7 +11,7 @@
   "keywords": [
     "studyzone"
   ],
-  "author": "harsimran_rashwinder",
+  "author": "kiranpreet",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
